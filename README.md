@@ -1,6 +1,13 @@
 learnGit
 ========
 
+```diff
++ this will be highlighted in green
+- this will be highlighted in red
+```
+These are <b style='color:red'>red words</b>.
+
+
 how does this work?
 
 hello world
